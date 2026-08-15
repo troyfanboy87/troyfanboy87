@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Troy Oliamot 👋
 
 **Computer Science Student @ University of the Philippines Diliman**
 Working toward data analytics — turning real Philippine finance questions into reproducible analyses.
