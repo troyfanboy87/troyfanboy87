@@ -3,7 +3,7 @@
 <!-- ══════════════════════════════════════════════ -->
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1a2980,100:26d0ce&height=180&section=header&text=Hi,%20I'm%20[Your%20Name]%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1a2980,100:26d0ce&height=180&section=header&text=Hi,%20I'm%20Troy%20Oliamot%20&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=26D0CE&center=true&vCenter=true&width=520&lines=CS+Student+%40+UP+Diliman;DOST-SEI+Merit+Scholar;Aspiring+Data+Analyst+%2F+Data+Scientist;Turning+real+questions+into+reproducible+analyses)](https://git.io/typing-svg)
 
