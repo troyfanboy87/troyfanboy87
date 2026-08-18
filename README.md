@@ -40,20 +40,21 @@ I like working on questions I actually care about — most of my projects grow o
 
 ## 🚀 Featured Project
 
-### 💰 Philippine Digital Bank After-Tax Yield Analysis
+### 📉 Telecom Customer Churn — Prediction & Retention Analysis
 
-> How much do PH digital banks *actually* pay after the 20% final withholding tax on deposit interest?
+> Which telecom customers are about to cancel — and can we catch them early enough to act?
 
-An analysis comparing **advertised vs. effective yields** across banks, balance tiers, and holding periods.
+An end-to-end analysis that predicts customer churn and turns the predictions into a concrete retention-targeting decision.
 
-- 🧹 Cleaned and structured rate data from multiple PH digital banks
-- 🧮 Computed effective after-tax yields under the CMEPA 20% withholding tax
-- ⚖️ Compared returns across contribution patterns and balance tiers
-- 🔁 Reproducible pipeline with documented methodology and assumptions
+- 🧹 Cleaned and encoded 7,000+ customer records from the public IBM Telco dataset
+- 🔧 Engineered churn-signal features (contract type, tenure, add-ons, value-for-money)
+- 🤖 Compared a Logistic Regression baseline against a class-weighted XGBoost model
+- 🎯 Framed results as capture/lift — targeting the top 20% by risk catches ~half of all churners
+- 🔁 Fully reproducible: narrated notebook + headless pipeline, fixed random seed
 
-**Stack:** `Python` `pandas` `NumPy` `Matplotlib`
+**Stack:** `Python` `pandas` `scikit-learn` `XGBoost` `Matplotlib` `seaborn`
 
-🔗 [github.com/troyfanboy87/ph-digital-bank-yields](https://github.com/troyfanboy87/ph-digital-bank-yields)
+🔗 [github.com/troyfanboy87/telecom-churn-analysis](https://github.com/troyfanboy87/telecom-churn-analysis)
 
 <details>
 <summary>📁 More projects (in progress — click to expand)</summary>
@@ -90,22 +91,9 @@ An analysis comparing **advertised vs. effective yields** across banks, balance 
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=troyfanboy87&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=troyfanboy87&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=troyfanboy87&theme=tokyonight&hide_border=true&background=00000000" />
-
-</div>
-
----
-
 ## 🔨 Currently Building
 
-- 📈 Expanding the digital bank yields analysis with historical rate tracking
+- 📊 A Power BI dashboard as a second portfolio piece
 - 🧮 SQL practice projects on real Philippine datasets
 
 ## 🎯 Goals for 2026
