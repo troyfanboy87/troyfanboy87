@@ -15,7 +15,7 @@
 
 ---
 
-## 🧭 About Me
+## About Me
 
 ```python
 class AboutMe:
@@ -28,7 +28,7 @@ class AboutMe:
 
 I like working on questions I actually care about — most of my projects grow out of my interest in **personal finance and Philippine digital banking**, where I get to combine data analysis with decisions I'm making in real life.
 
-### 🎯 Current Focus
+### Current Focus
 
 | Now | Next | Someday |
 |-----|------|---------|
@@ -38,19 +38,19 @@ I like working on questions I actually care about — most of my projects grow o
 
 ---
 
-## 🚀 Featured Project
+## Featured Project
 
-### 📉 Telecom Customer Churn — Prediction & Retention Analysis
+### Telecom Customer Churn — Prediction & Retention Analysis
 
 > Which telecom customers are about to cancel — and can we catch them early enough to act?
 
 An end-to-end analysis that predicts customer churn and turns the predictions into a concrete retention-targeting decision.
 
-- 🧹 Cleaned and encoded 7,000+ customer records from the public IBM Telco dataset
-- 🔧 Engineered churn-signal features (contract type, tenure, add-ons, value-for-money)
-- 🤖 Compared a Logistic Regression baseline against a class-weighted XGBoost model
-- 🎯 Framed results as capture/lift — targeting the top 20% by risk catches ~half of all churners
-- 🔁 Fully reproducible: narrated notebook + headless pipeline, fixed random seed
+- Cleaned and encoded 7,000+ customer records from the public IBM Telco dataset
+- Engineered churn-signal features (contract type, tenure, add-ons, value-for-money)
+- Compared a Logistic Regression baseline against a class-weighted XGBoost model
+- Framed results as capture/lift — targeting the top 20% by risk catches ~half of all churners
+- Fully reproducible: narrated notebook + headless pipeline, fixed random seed
 
 **Stack:** `Python` `pandas` `scikit-learn` `XGBoost` `Matplotlib` `seaborn`
 
@@ -71,7 +71,7 @@ An end-to-end analysis that predicts customer churn and turns the predictions in
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -91,7 +91,7 @@ An end-to-end analysis that predicts customer churn and turns the predictions in
 
 ---
 
-## 🔨 Currently Building
+## Currently Building
 
 - 📊 A Power BI dashboard as a second portfolio piece
 - 🧮 SQL practice projects on real Philippine datasets
