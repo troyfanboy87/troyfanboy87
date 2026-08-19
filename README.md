@@ -28,13 +28,13 @@ class AboutMe:
 
 I like working on questions I actually care about — most of my projects grow out of my interest in **personal finance and Philippine digital banking**, where I get to combine data analysis with decisions I'm making in real life.
 
-### Current Focus
+### Learning Now
 
-| Now | Next | Someday |
+| Now | Next | 
 |-----|------|---------|
-| 📊 Python & pandas for data analysis | 🗄️ SQL fundamentals | 🤖 Machine Learning |
-| 📖 *Python for Data Analysis* (Wes McKinney) | 📈 Statistics for analytics | 🌐 Web Development |
-| 💻 C & CS fundamentals in coursework | 📉 Data visualization | 🚀 DA/DS internship |
+| 📊 Python & pandas for data analysis | 🗄️ SQL fundamentals | 
+| 📖 *Python for Data Analysis* (Wes McKinney) | 📈 Statistics for analytics | 
+| 💻 C & CS fundamentals in coursework | 📉 Data visualization | 
 
 ---
 
