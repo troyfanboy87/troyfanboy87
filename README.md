@@ -48,8 +48,12 @@ Most of my work grows out of **personal finance and Philippine digital banking**
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=anaconda&logoColor=white)
 
-<sub>**Learning next** &nbsp;·&nbsp; SQL (MySQL / PostgreSQL) &nbsp;·&nbsp; Statistics for analytics &nbsp;·&nbsp; Power BI</sub>
+### **Learning next**
 
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
+</sub> Statistics for analytics &nbsp;·&nbsp; Power BI </sub> 
 
 </div>
 
