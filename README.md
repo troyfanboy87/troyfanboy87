@@ -31,7 +31,7 @@ I like working on questions I actually care about — most of my projects grow o
 ### Learning Now
 
 | Now | Next | 
-|-----|------|---------|
+|-----|------|
 | 📊 Python & pandas for data analysis | 🗄️ SQL fundamentals | 
 | 📖 *Python for Data Analysis* (Wes McKinney) | 📈 Statistics for analytics | 
 | 💻 C & CS fundamentals in coursework | 📉 Data visualization | 
