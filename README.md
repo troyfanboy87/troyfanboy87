@@ -54,6 +54,7 @@ Most of my work grows out of **personal finance and Philippine digital banking**
 
 </div>
 
+
 ## Projects
 
 **[Telecom Customer Churn — Prediction & Retention Analysis](https://github.com/troyfanboy87/telecom-churn-analysis)**
