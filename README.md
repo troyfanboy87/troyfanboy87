@@ -1,19 +1,20 @@
-<!-- ══════════════════════════════════════════════ -->
-<!--  Banner                                          -->
-<!-- ══════════════════════════════════════════════ -->
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1a2980,100:26d0ce&height=180&section=header&text=Hi,%20I'm%20Troy%20Oliamot%20&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35)
+<!-- Wave banner, text-free so the only display font on the page is Fira Code below -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a2980,100:26d0ce&height=140&section=header" width="100%" alt="banner" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=26D0CE&center=true&vCenter=true&width=520&lines=CS+Student+%40+UP+Diliman;DOST-SEI+Merit+Scholar;Aspiring+Data+Analyst+%2F+Data+Scientist;Turning+real+questions+into+reproducible+analyses)](https://git.io/typing-svg)
+# Troy Oliamot
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:taoliamot@up.edu.ph)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/troy-oliamot-12ba203b8/)
-![Profile Views](https://komarev.com/ghpvc/?username=troyfanboy87&color=26d0ce&style=for-the-badge)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=26D0CE&center=true&vCenter=true&width=520&lines=CS+Student+%40+UP+Diliman;DOST-SEI+Merit+Scholar;Aspiring+Data+Analyst+%2F+Data+Scientist;Turning+real+questions+into+reproducible+analyses)](https://github.com/troyfanboy87)
+
+[![Email](https://img.shields.io/badge/Email-26D0CE?style=flat-square&logo=gmail&logoColor=white)](mailto:taoliamot@up.edu.ph)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1A2980?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/troy-oliamot-12ba203b8/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/troyfanboy87)
+![Profile Views](https://komarev.com/ghpvc/?username=troyfanboy87&color=26d0ce&style=flat-square&label=Views)
 
 </div>
 
----
+<br>
 
 ## About Me
 
@@ -26,22 +27,36 @@ class AboutMe:
     fun_fact   = "My projects start as personal finance questions I actually want answered"
 ```
 
-I like working on questions I actually care about — most of my projects grow out of my interest in **personal finance and Philippine digital banking**, where I get to combine data analysis with decisions I'm making in real life.
+Most of my work grows out of **personal finance and Philippine digital banking** — questions I want answered for my own decisions, turned into reproducible analyses.
 
-### Learning Now
+<br>
 
-| Now | Next | 
-|-----|------|
-| 📊 Python & pandas for data analysis | 🗄️ SQL fundamentals | 
-| 📖 *Python for Data Analysis* (Wes McKinney) | 📈 Statistics for analytics | 
-| 💻 C & CS fundamentals in coursework | 📉 Data visualization | 
+## Tech Stack
 
----
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+&nbsp;
+![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=anaconda&logoColor=white)
+
+<sub>**Learning next** &nbsp;·&nbsp; SQL (MySQL / PostgreSQL) &nbsp;·&nbsp; Statistics for analytics &nbsp;·&nbsp; Power BI</sub>
+
+
+</div>
 
 ## Projects
 
-### Telecom Customer Churn — Prediction & Retention Analysis
-
+**[Telecom Customer Churn — Prediction & Retention Analysis](https://github.com/troyfanboy87/telecom-churn-analysis)**
+<br>
 An end-to-end analysis that predicts customer churn and turns the predictions into a concrete retention-targeting decision.
 
 - Cleaned and encoded 7,000+ customer records from the public IBM Telco dataset
@@ -50,69 +65,23 @@ An end-to-end analysis that predicts customer churn and turns the predictions in
 - Framed results as capture/lift — targeting the top 20% by risk catches ~half of all churners
 - Fully reproducible: narrated notebook + headless pipeline, fixed random seed
 
-**Stack:** `Python` `pandas` `scikit-learn` `XGBoost` `Matplotlib` `seaborn`
+`Python` `pandas` `scikit-learn` `XGBoost` `Matplotlib` `seaborn`
 
-🔗 [github.com/troyfanboy87/telecom-churn-analysis](https://github.com/troyfanboy87/telecom-churn-analysis)
+<br>
 
-
-### Philippine Digital Bank Yield Analysis
- 
+**[Philippine Digital Bank Yield Analysis](https://github.com/troyfanboy87/ph-digital-bank-yields-analysis)**
+<br>
 A personal-finance analysis that converts the headline rates of 8 PH digital banks into real after-tax earnings under a realistic monthly-saving habit.
- 
+
 - Collected and dated base rates of 8 PH digital bank savings products (promo rates recorded but modeled separately)
 - Built a compound-interest growth model with daily vs monthly crediting and the 20% final withholding tax
 - Simulated saving ₱3,000/month for a year — the best-vs-mid-tier spread is only ~₱199, so app usability can outweigh rate
 - Self-checking math: plain-assert tests + doctests verify edge cases (0% changes nothing, 100%/yr doubles money)
 - Fully reproducible: dated data snapshot, honest limitations section, CLI arg to model any saving amount
-**Stack:** `Python` `pandas` `Matplotlib`
- 
-🔗 [github.com/troyfanboy87/ph-digital-bank-yields-analysis](https://github.com/troyfanboy87/ph-digital-bank-yields-analysis)
- 
-<details>
-<summary>📁 More projects (in progress — click to expand)</summary>
+
+`Python` `pandas` `Matplotlib`
+
 <br>
-**[Project 3 Title]** — [one-sentence description]
-- [What you built or analyzed]
-- [Key technique or finding]
-**Stack:** `Python` `[other tools]`
- 
-</details>
-
----
-
-
-## Tech Stack
-
-<div align="center">
-
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-
-**Data Libraries**
-
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logo=matplotlib&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-
-**Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=anaconda&logoColor=white)
-
-**Currently Learning**
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-
-</div>
-
-</div>
 
 ---
 
@@ -121,7 +90,7 @@ A personal-finance analysis that converts the headline rates of 8 PH digital ban
 - 📊 A Power BI dashboard as a second portfolio piece
 - 🧮 SQL practice projects on real Philippine datasets
 
-## 🎯 Goals for 2026
+## Goals for 2026
 
 - [ ] Complete my 6-month data analytics roadmap (SQL → statistics → visualization → intro ML)
 - [ ] Publish 2–3 polished, documented data projects
