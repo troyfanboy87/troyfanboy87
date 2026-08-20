@@ -85,6 +85,17 @@ A personal-finance analysis that converts the headline rates of 8 PH digital ban
 
 <br>
 
+**[Whac-A-Mole: Pyxel View (MVC Game Engine)](https://github.com/troyfanboy87/whack-a-mole-pyxel-game)**
+<br>
+A real-time Whac-A-Mole game built on Model-View-Controller, with a polymorphic mole subtype system and full sound design.
+- Built the Pyxel View from scratch: mouse-hit detection, three configurable board layouts (6/7/8 holes), live scoring, game-over state
+- Extended an abstract Mole interface (ABC) into 5 subtypes with distinct combat behavior — dodge chance, adjacency-based chain "scares," escalating rewards
+- Modeled mole-to-mole interaction via an adjacency graph, where one kill can force neighboring moles into hiding
+- Added custom hit/miss/game-over sound effects wired into the Controller's event loop
+- 100% test coverage on the game model (74 pytest cases covering popup scheduling, win conditions, and per-subtype edge cases)
+`Python` `Pyxel` `pytest` `OOP/MVC`
+<br>
+
 ---
 
 ## Currently Building
