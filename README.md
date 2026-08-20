@@ -42,8 +42,6 @@ I like working on questions I actually care about — most of my projects grow o
 
 ### Telecom Customer Churn — Prediction & Retention Analysis
 
-> Which telecom customers are about to cancel — and can we catch them early enough to act?
-
 An end-to-end analysis that predicts customer churn and turns the predictions into a concrete retention-targeting decision.
 
 - Cleaned and encoded 7,000+ customer records from the public IBM Telco dataset
@@ -56,9 +54,8 @@ An end-to-end analysis that predicts customer churn and turns the predictions in
 
 🔗 [github.com/troyfanboy87/telecom-churn-analysis](https://github.com/troyfanboy87/telecom-churn-analysis)
 
-### Philippine Digital Bank Yields — What Savers Actually Keep After Tax
- 
-> Digital banks advertise 3%–4.5% — but how much of that survives the 20% withholding tax?
+
+### Philippine Digital Bank Yield Analysis
  
 A personal-finance analysis that converts the headline rates of 8 PH digital banks into real after-tax earnings under a realistic monthly-saving habit.
  
@@ -90,15 +87,30 @@ A personal-finance analysis that converts the headline rates of 8 PH digital ban
 
 **Languages**
 
-![Languages](https://skillicons.dev/icons?i=python,c)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 
-**Libraries & Tools**
+**Data Libraries**
 
-![Tools](https://skillicons.dev/icons?i=git,github,vscode,anaconda)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logo=matplotlib&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=anaconda&logoColor=white)
 
 **Currently Learning**
 
-![Learning](https://skillicons.dev/icons?i=mysql,postgres)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
+</div>
 
 </div>
 
