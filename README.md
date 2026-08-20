@@ -93,6 +93,7 @@ A real-time Whac-A-Mole game built on Model-View-Controller, with a polymorphic 
 - Modeled mole-to-mole interaction via an adjacency graph, where one kill can force neighboring moles into hiding
 - Added custom hit/miss/game-over sound effects wired into the Controller's event loop
 - 100% test coverage on the game model (74 pytest cases covering popup scheduling, win conditions, and per-subtype edge cases)
+
 `Python` `Pyxel` `pytest` `OOP/MVC`
 <br>
 
