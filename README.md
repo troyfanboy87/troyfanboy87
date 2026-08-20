@@ -1,11 +1,8 @@
 <div align="center">
+    
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1a2980,100:26d0ce&height=180&section=header&text=Hi,%20I'm%20Troy%20Oliamot%20&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35)
 
-<!-- Wave banner, text-free so the only display font on the page is Fira Code below -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a2980,100:26d0ce&height=140&section=header" width="100%" alt="banner" />
-
-# Troy Oliamot
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=26D0CE&center=true&vCenter=true&width=520&lines=CS+Student+%40+UP+Diliman;DOST-SEI+Merit+Scholar;Aspiring+Data+Analyst+%2F+Data+Scientist;Turning+real+questions+into+reproducible+analyses)](https://github.com/troyfanboy87)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=26D0CE&center=true&vCenter=true&width=520&lines=CS+Student+%40+UP+Diliman;DOST-SEI+Merit+Scholar;Aspiring+Data+Analyst+%2F+Data+Scientist;Turning+real+questions+into+reproducible+analyses)](https://git.io/typing-svg)
 
 [![Email](https://img.shields.io/badge/Email-26D0CE?style=flat-square&logo=gmail&logoColor=white)](mailto:taoliamot@up.edu.ph)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1A2980?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/troy-oliamot-12ba203b8/)
