@@ -38,7 +38,7 @@ I like working on questions I actually care about — most of my projects grow o
 
 ---
 
-## Featured Project
+## Projects
 
 ### Telecom Customer Churn — Prediction & Retention Analysis
 
@@ -56,20 +56,33 @@ An end-to-end analysis that predicts customer churn and turns the predictions in
 
 🔗 [github.com/troyfanboy87/telecom-churn-analysis](https://github.com/troyfanboy87/telecom-churn-analysis)
 
+### Philippine Digital Bank Yields — What Savers Actually Keep After Tax
+ 
+> Digital banks advertise 3%–4.5% — but how much of that survives the 20% withholding tax?
+ 
+A personal-finance analysis that converts the headline rates of 8 PH digital banks into real after-tax earnings under a realistic monthly-saving habit.
+ 
+- Collected and dated base rates of 8 PH digital bank savings products (promo rates recorded but modeled separately)
+- Built a compound-interest growth model with daily vs monthly crediting and the 20% final withholding tax
+- Simulated saving ₱3,000/month for a year — the best-vs-mid-tier spread is only ~₱199, so app usability can outweigh rate
+- Self-checking math: plain-assert tests + doctests verify edge cases (0% changes nothing, 100%/yr doubles money)
+- Fully reproducible: dated data snapshot, honest limitations section, CLI arg to model any saving amount
+**Stack:** `Python` `pandas` `Matplotlib`
+ 
+🔗 [github.com/troyfanboy87/ph-digital-bank-yields-analysis](https://github.com/troyfanboy87/ph-digital-bank-yields-analysis)
+ 
 <details>
 <summary>📁 More projects (in progress — click to expand)</summary>
-
 <br>
-
-**[Project 2 Title]** — [one-sentence description]
+**[Project 3 Title]** — [one-sentence description]
 - [What you built or analyzed]
 - [Key technique or finding]
-
 **Stack:** `Python` `[other tools]`
-
+ 
 </details>
 
 ---
+
 
 ## Tech Stack
 
